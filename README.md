@@ -1,7 +1,3 @@
-# dart_projects
-
-Dart projects
-
 # Dart Projects
 
 This repository contains various Dart projects for learning and practice.

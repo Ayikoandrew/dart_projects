@@ -6,6 +6,7 @@ This repository contains various Dart projects for learning and practice.
 
 - [ ] Dart Command Line Application
 - [ ] Dart HTTP Server
+- [ ] Chat App
 
 ## Project Descriptions
 

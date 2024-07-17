@@ -4,16 +4,18 @@ This repository contains various Dart projects for learning and practice.
 
 ## Projects Checklist
 
-- [ ] Dart Command Line Application
+- [x] Dart Command Line Application
 - [ ] Dart HTTP Server
 - [ ] Chat App
 
 ## Project Descriptions
 
 ### Dart Command Line Application
+
 This project is a simple command-line application written in Dart to help understand the basics of creating and running Dart scripts from the terminal.
 
 ### Dart HTTP Server
+
 This project involves setting up a basic HTTP server using Dart, showcasing how to handle HTTP requests and responses.
 
 ## How to Contribute
